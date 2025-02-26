@@ -1,1 +1,2 @@
-马尔可夫取值转换实时预测
+MS-DFM 3 states or 2 states
+
